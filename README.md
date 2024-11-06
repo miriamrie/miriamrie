@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Miriam!
-- 🌍 Originally from Germany living in NZ. 
-- 👀 I’m interested in IT with a focus an full stack developer anything web, design and creative.
-- 🌱 I’m currently learning Software Engineering at Wintec.
+- 🌍 Originally from Germany living now in NZ. 
+- 👀 I’m currently study IT at Wintec with a pathway in Software Engineering with the interest in Web Development.
+- My focus is an full stack developer (front- and back-end development) plus anything design (e.g. Game and UI/UX Design).
+- I like being creative as my background lies in the Arts.
 - 🧩 My tech skills includes C#, Python, .NET MAUI, Vue.js, MySQL, Java, Microsoft Office 365 and Adobe Photoshop.
