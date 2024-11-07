@@ -1,7 +1,7 @@
 - 👋
 - Hi, I’m Miriam!
 - Originally from Germany living now in NZ.
-- 
+ - 
 - 👀
 - Currently I am studying IT at Wintec || Major:Software Engineer with the interest in Web Development.
 - ✨ My focus is an full stack developer (front- and back-end development) plus anything design (Game, UI/UX Design,
