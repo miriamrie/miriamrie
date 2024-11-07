@@ -7,19 +7,19 @@ Originally from Germany living now in NZ.
 - ✨ My focus is an full stack developer (front- and back- end development) plus anything design (Game, UI/UX Design,
   Graphic Design ).
   -
-🧩 My tech skills includes
-- C#
-- Java
-- JavaScript
-- HTML/CSS
-- Python
-- MySQL
-- .NET MAUI
-- Vue.js
-- Microsoft Office 365
-- Adobe Creative.
-- 🎨 I like being Creative as my background lies in the Arts.
- 
+ 🧩 My tech skills includes
+ - C#
+ - Java
+ - JavaScript
+ - HTML/CSS
+ - Python
+ - MySQL
+ - .NET MAUI
+ - Vue.js
+ - Microsoft Office 365
+ - Adobe Creative.
+ - 🎨 I like being Creative as my background lies in the Arts.
+  
 
 
 
