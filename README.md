@@ -2,8 +2,6 @@
 Welcome, I’m Miriam!
 Originally from Germany living now in NZ.
  -
-
--
 👀 Currently I am pursuing a Bachelor degree in Applied IT studying at Wintec transitioning from the Arts field.
 -
 - Major: Software Engineering with the interest in Web Development. Through open for other tech journeys.
