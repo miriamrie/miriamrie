@@ -4,7 +4,7 @@ Originally from Germany living now in NZ.
  - 
   👀
 - Currently I am pursuing a Bachelor degree in Applied IT studying at Wintec || Major: Software Engineer with the interest in Web Development.
-- ✨ My focus is an full stack developer (front- and back-end development) plus anything design (Game, UI/UX Design,
+- ✨ My focus is an full stack developer (front- and back- end development) plus anything design (Game, UI/UX Design,
   Graphic Design ).
   -
 🧩 My tech skills includes
@@ -21,5 +21,5 @@ Originally from Germany living now in NZ.
 
 
 
-🏹 Fun facts:I love to paint, design and stay fit by walks / runs.
+🏹 Fun facts: I love to paint, design and stay fit by walks / runs.
 
