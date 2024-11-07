@@ -23,5 +23,5 @@ Currently I am pursuing a Bachelor degree in Applied IT studying at Wintec || Ma
   
 **********************************************************************************************************************************************
 
-  🏹 Facts about me: I love to paint, design and stay fit by walks / runs.
+  🏹 Facts about me: #I love to paint, design and stay fit by walks / runs.
 
