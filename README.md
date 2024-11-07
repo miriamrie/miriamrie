@@ -1,5 +1,5 @@
 👋
-Hi, I’m Miriam!
+Welcome, I’m Miriam!
 Originally from Germany living now in NZ.
  - 
   👀
