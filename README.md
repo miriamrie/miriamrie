@@ -10,7 +10,7 @@ Currently I am pursuing a Bachelor degree in Applied IT studying at Wintec trans
 - ✨ My focus is an full stack developer (front- and back- end development) plus anything design (Game, UI/UX Design,
   Graphic Design ).
   -
-  🧩 My tech skills includes
+  🧩 My tech skills includes:
   - C#
   - Java
   - JavaScript
@@ -20,9 +20,10 @@ Currently I am pursuing a Bachelor degree in Applied IT studying at Wintec trans
   - .NET MAUI
   - Vue.js
   - Microsoft Office 365
-  - Adobe Creative.
+  - Adobe Creative Suite
   - 🎨 I like being Creative as my background lies in the Arts.
   
 **********************************************************************************************************************************************
 🏹📚🎬 About Me: ### I love to paint, design, collaborate, read and stay fit by walks / runs.
+-
 
