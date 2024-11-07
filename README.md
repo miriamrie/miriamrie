@@ -10,7 +10,7 @@ Originally from Germany living now in NZ.
 🧩 My tech skills includes
 - C#, Python, .NET MAUI, Vue.js, MySQL, Java, Microsoft Office 365 and Adobe Creative.
 - 🎨 I like being Creative as my background lies in the Arts.
-
-🏹 Fun facts:
-  I love to paint, design and stay fit by walks / runs.
+-
+-
+🏹 Fun facts:I love to paint, design and stay fit by walks / runs.
 
