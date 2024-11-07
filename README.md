@@ -21,7 +21,7 @@ Currently I am pursuing a Bachelor degree in Applied IT studying at Wintec || Ma
   - Adobe Creative.
   - 🎨 I like being Creative as my background lies in the Arts.
   
-
+**********************************************************************************************************************************************
 
   🏹 Facts about me: I love to paint, design and stay fit by walks / runs.
 
