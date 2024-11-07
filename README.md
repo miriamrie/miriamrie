@@ -17,7 +17,7 @@ Originally from Germany living now in NZ.
 - Microsoft Office 365
 - Adobe Creative.
 - 🎨 I like being Creative as my background lies in the Arts.
- -
- -
+ 
+
 🏹 Fun facts:I love to paint, design and stay fit by walks / runs.
 
