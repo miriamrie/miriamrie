@@ -23,6 +23,6 @@ Originally from Germany living now in NZ.
   - 🎨 I like being Creative as my background lies in the Arts.
   
 **********************************************************************************************************************************************
-🏹📚🎬 About Me: ### I love to paint, design, collaborate, read and stay fit by walks / runs.
+🏹📚🎬 About Me: ### I love to paint, design, collaborate, read, a good film and stay fit by walks / runs.
 -
 
