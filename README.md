@@ -22,6 +22,5 @@ Currently I am pursuing a Bachelor degree in Applied IT studying at Wintec || Ma
   - 🎨 I like being Creative as my background lies in the Arts.
   
 **********************************************************************************************************************************************
-
-  🏹 - About Me: I love to paint, design and stay fit by walks / runs.
+🏹 About Me: I love to paint, design and stay fit by walks / runs.
 
