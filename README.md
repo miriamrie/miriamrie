@@ -9,11 +9,13 @@ Originally from Germany living now in NZ.
   -
 🧩 My tech skills includes
 - C#
+- Java
+- JavaScript
+- HTML/CSS
 - Python
+- MySQL
 - .NET MAUI
 - Vue.js
-- MySQL
-- Java
 - Microsoft Office 365
 - Adobe Creative.
 - 🎨 I like being Creative as my background lies in the Arts.
