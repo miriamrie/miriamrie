@@ -1,9 +1,4 @@
 
-
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazc5ZG15Y3BxdXB3dnczeWZjanFkOXd4emo0djczNTQ1dWIydWZrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="200"/>
-</div>
-
 ***********************************************************************************************************************************************
 ***********************************************************************************************************************************************
 <h1>
