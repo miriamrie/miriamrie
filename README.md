@@ -1,5 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazc5ZG15Y3BxdXB3dnczeWZjanFkOXd4emo0djczNTQ1dWIydWZrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q8xuJjjxQHHJdHn7gJ/giphy.gif
+
+
 </div>
 
 ***********************************************************************************************************************************************
@@ -32,6 +35,4 @@ Originally from Germany living now in NZ.
 🏹 About Me: I love to paint, design, collaborate, read, a good film and stay fit by walks / runs.
 
 **********************************************************************************************************************************************
-
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazc5ZG15Y3BxdXB3dnczeWZjanFkOXd4emo0djczNTQ1dWIydWZrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q8xuJjjxQHHJdHn7gJ/giphy.gif
 
