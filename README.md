@@ -8,8 +8,6 @@ Originally from Germany living now in NZ.
 -
 - 💻 Major: Software Engineering with the interest in Web Development. Through open for other tech journeys.
 
-
-  
 - ✨ My focus is an full stack developer (front- and back- end development) plus anything design (Game, UI/UX Design,
   Graphic Design ).
   -
