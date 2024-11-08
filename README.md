@@ -11,7 +11,7 @@
 <h1>
   Welcome, I’m Miriam! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Originally from Germany living now in NZ.
+ 
 </h1>
 
 👀 Currently I am pursuing a Bachelor degree in Applied IT studying at Wintec transitioning from the Arts field.
