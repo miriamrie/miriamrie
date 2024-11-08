@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 Originally from Germany living now in NZ.
- -
+-
 👀 Currently I am pursuing a Bachelor degree in Applied IT studying at Wintec transitioning from the Arts field.
 -
 - 💻 Major: Software Engineering with the interest in Web Development & UX Design. Open to exploring other tech journeys as well.
