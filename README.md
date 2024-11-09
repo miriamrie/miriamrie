@@ -1,10 +1,8 @@
 ***********************************************************************************************************************************************
 ***********************************************************************************************************************************************
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+<h1> 
   Welcome, I’m Miriam! 
-
- 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 👀 Currently I am pursuing a Bachelor degree in Applied IT studying at Wintec transitioning from the Arts field.
@@ -37,7 +35,7 @@
 
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style--informational?style=flat&logo=&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Trello-informational?style=flat&logo=Trello&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
 ...
 </details>
