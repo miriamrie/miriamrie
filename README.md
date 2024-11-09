@@ -49,10 +49,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<p>{office_quote}</p>
+
 
 ![snowdingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=miriamrie&show_icons=true&theme=ambient_gradient)
 
-
+<p>{office_quote}</p>
 
 
