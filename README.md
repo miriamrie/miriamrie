@@ -51,7 +51,7 @@
 
 <p>{office_quote}</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="miriamrie"&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miriamrie&hide_progress=true)
 
 
 
