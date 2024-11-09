@@ -51,7 +51,7 @@
 
 <p>{office_quote}</p>
 
-<p>{office_character}</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="username"&hide_progress=true)
 
 
 
