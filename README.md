@@ -52,7 +52,7 @@
 
 
 
-![snowdingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=miriamrie&show_icons=true&theme=radical)
+![snowdingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=miriamrie&show_icons=true&theme=ambient-gradient)
 --
 
 
