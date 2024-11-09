@@ -52,7 +52,7 @@
 
 
 
-![snowdingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=miriamrie&show_icons=true&theme=ambient_gradient)
+
 --
 ⚡ Check out the Quote of the Month:
 <p> " Logic will get you from A to B. Imagination will get you everywhere" - Albert Einstein </p>
