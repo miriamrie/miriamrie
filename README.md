@@ -26,7 +26,7 @@
   - Adobe Creative Suite
   - 🎨 I like being Creative as my background lies in the Arts.
 
-  -
+  
     <details>
     <summary>More Skills</summary>
     
@@ -48,7 +48,7 @@
 </div>
 
 
--
+
 ⚡ Check out the Quote of the Week:
 <p> " Logic will get you from A to B. Imagination will get you everywhere" - Albert Einstein </p>
 
