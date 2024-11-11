@@ -27,14 +27,14 @@
   - 🎨 I like being Creative as my background lies in the Arts.
 
     <details>
-<summary>More Skills</summary>
-
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Trello-informational?style=flat&logo=Trello&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
-...
-</details>
+    <summary>More Skills</summary>
+    
+    ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+    ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+    ![](https://img.shields.io/badge/Style-Trello-informational?style=flat&logo=Trello&logoColor=white&color=4AB197)
+    ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
+    ...
+    </details>
   
 **********************************************************************************************************************************************
 🏹 About Me: I love to paint, design, collaborate, read, a good film and stay fit by walks / runs.
