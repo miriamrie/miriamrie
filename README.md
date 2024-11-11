@@ -47,7 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
--
+
 
 ⚡ Check out the Quote of the Week:
  " Logic will get you from A to B. Imagination will get you everywhere" - Albert Einstein 
