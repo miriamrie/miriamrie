@@ -25,13 +25,8 @@
   - Microsoft Office 365
   - Adobe Creative Suite
   - 🎨 I like being Creative as my background lies in the Arts.
-  
-**********************************************************************************************************************************************
-🏹 About Me: I love to paint, design, collaborate, read, a good film and stay fit by walks / runs.
 
-*******************************************************************************************************************
-
-<details>
+    <details>
 <summary>More Skills</summary>
 
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
@@ -40,6 +35,13 @@
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
 ...
 </details>
+  
+**********************************************************************************************************************************************
+🏹 About Me: I love to paint, design, collaborate, read, a good film and stay fit by walks / runs.
+
+*******************************************************************************************************************
+
+
 
 
 <div>
