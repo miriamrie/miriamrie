@@ -38,9 +38,9 @@
   </details>
   
 **********************************************************************************************************************************************
-🏹 About Me: I love to paint, design, collaborate, read, a good film and stay fit by walks / runs.
+🏹 About Me: I love to paint, design, collaborate, read, food, a good film and stay fit by walks / runs.
 
-*******************************************************************************************************************
+*********************************************************************************************************************************************
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
